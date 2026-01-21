@@ -1,1 +1,1 @@
-# ___'s UX Journal
+# Kenai Toledo's UX Journal
