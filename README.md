@@ -7,4 +7,4 @@ Hello my name is Kenai, I like to play videogames, eating food and sleeping. Thi
 
 ## UX Journal
 
-[j01](j01.md)
+[Clipping Music](j01.md)
